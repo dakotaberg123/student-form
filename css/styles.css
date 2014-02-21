@@ -1,1 +1,12 @@
-/* Your Awesome Website */
+/* #a10022 */
+body {
+	background: lightgrey;
+}
+
+label {
+	color: #a10022;
+}
+
+legend {
+	color: lightgrey;
+}
